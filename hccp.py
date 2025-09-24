@@ -99,10 +99,9 @@ class Produto:
 
 produtos = [
     Produto("Cubos de Atum", "10 dias", "produto do dia", "Conservar refrigerado"),
-    Produto(
-        "Espetadas de Salmão / Espetadas de Espadarte Preto, Pota e Salmão, Salmão e Atum, Lulas com Camarão e Pota",
-        "10 dias", "produto do dia", "Conservar refrigerado"),
-    Produto("Filetes de Dourada / Robalo / Bacalhau", "15 dias", "24 horas", "Conservar refrigerado"),
+    Produto("Espetadas de Salmão","10 dias", "produto do dia", "Conservar refrigerado"),
+    Produto("Filetes de Dourada", "15 dias", "24 horas", "Conservar refrigerado"),
+    Produto("Filetes de Robalo", "15 dias", "24 horas", "Conservar refrigerado"),
     Produto("Filete de Corvina", "15 dias", "24 horas", "Conservar refrigerado"),
     Produto("Filete de Peixe Espada Preto", "15 dias", "36 horas", "Conservar refrigerado"),
     Produto("Filete de Redfish descongelado", "15 dias", "36 horas", "Conservar refrigerado"),
